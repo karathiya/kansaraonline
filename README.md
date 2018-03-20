@@ -1,4 +1,4 @@
-# smartInterviewer
+# Kansara Online
 
 **Generated from HotTowel Angular**
 
@@ -31,7 +31,7 @@
  - Run the unit tests using `gulp test` (via karma, mocha, sinon).
 
 ### Running in dev mode
- - Run the project with `gulp serve-dev`
+ - Run the project with `gulp serve -dev`
 
  - opens it in a browser and updates the browser with any files changes.
 
@@ -40,7 +40,7 @@
  - This create the optimized code for the project and puts it in the build folder
 
 ### Running the optimized code
- - Run the optimize project from the build folder with `gulp serve-build`
+ - Run the optimize project from the build folder with `gulp serve -build`
 
 ## Exploring HotTowel
 HotTowel Angular starter project
