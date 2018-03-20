@@ -13,7 +13,7 @@
   ],
   "devDependencies": {
     "angular-mocks": "^1.4.5",
-    "sinon": "http://sinonjs.org/releases/sinon-1.12.1.js",
+    "sinon": "http://sinonjs.org/releases/sinon-4.4.6.js",
     "bardjs": "^0.1.4"
   },
   "dependencies": {
