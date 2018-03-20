@@ -1,0 +1,6 @@
+{
+	"protocol": "smtps",
+	"mailId": "sagar.karathiya@gmail.com",
+	"password": "vhkarathiya",
+	"smtpServer": "smtp.gmail.com"
+}

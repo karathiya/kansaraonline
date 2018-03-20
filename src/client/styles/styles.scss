@@ -1,0 +1,35 @@
+/*********************************************
+* Overriding bootstrap using it's variables  *
+*********************************************/
+@import "vars/brand";
+@import "vars/navbar";
+@import "vars/typography";
+@import "vars/panel";
+@import "vars/border-radius";
+
+/*********************************************
+* Importing Bootstrap with above variables.. *
+*********************************************/
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/*********************************************
+* Application specific used variables styles *
+*********************************************/
+//variables import
+@import "vars/body";
+@import "vars/error";
+
+//blocks import
+@import "blocks/body";
+
+// elements import
+@import "elements/button";
+@import "elements/tag-input";
+
+// modifiers import
+@import "modifiers/error";
+
+// misc. import
+@import "modules/question";
+@import "modules/admin-test";
+@import "modules/admin-user";
