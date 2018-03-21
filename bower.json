@@ -38,7 +38,7 @@
     "highcharts": "^4.2.6"
   },
   "resolutions": {
-    "angular": "1.5.8"
+    "angular": "1.6.9"
   },
   "overrides": {
     "font-awesome": {
